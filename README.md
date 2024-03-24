@@ -1,4 +1,4 @@
-<!-- # PHASE-1-WEEK-1-CODE-CHALLENGE
+# PHASE-1-WEEK-1-CODE-CHALLENGE
 
 # Challenge 1: Student Grade Generator
 
@@ -30,4 +30,4 @@ Open VS Code from your terminal while in the correct directory
 # Technologies Used
 
 1. HTML
-2. JavaSript -->
+2. JavaSript
