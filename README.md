@@ -22,10 +22,10 @@ This is a program(found in 'salary.js') whose major task is to calculate an indi
 
 # Setting Up and accessing files
 
-Create a directory on your terminal
-Fork this repository from my GitHub profile.
-Clone it into your local repository in your directory of choice.
-Open VS Code from your terminal while in the correct directory
+- Create a directory on your terminal
+- Fork this repository from my GitHub profile.
+- Clone it into your local repository in your directory of choice.
+- Open VS Code from your terminal while in the correct directory
 
 # Technologies Used
 
