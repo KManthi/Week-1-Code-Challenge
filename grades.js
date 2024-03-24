@@ -26,7 +26,7 @@ while (true) {
         console.log(`Grade: ${grade}`);
     } else {
         console.log('Sorry, that is an invalid input, try again with a number from 0 to 100');
-        continue; // Skip the rest of the loop if input is invalid
+        continue; // Skips the rest of the loop if input is invalid
     }
 
     // This asks the student if they're done or not
